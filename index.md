@@ -1,1 +1,1 @@
-[mind clicking me?](data:text/html,<iframe width="100%" height="100%" src="https://www.youtube.com/embed/DCmh5fvgqq4?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[don't click this](https://www.youtube.com/embed/DCmh5fvgqq4?autoplay=1)
